@@ -1,6 +1,6 @@
 Empty IG
 ---
-This is an empty IG
+Food Allergy Example
 <br> </br>
 ###
 ### Publication
