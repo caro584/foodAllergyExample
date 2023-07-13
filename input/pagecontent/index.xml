@@ -1,7 +1,7 @@
 <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://hl7.org/fhir ../../src-generated/schemas/fhir-single.xsd" lang="en">
   <a name="scope">  </a>
 	<p>
-    This is our FHIR Implementation Guide. It contains the specifications developed by our community. 
+    This is our FHIR Example for Food Allergy Profiling Implementation Guide. It contains the specifications developed by our community. 
    </p>
 	<blockquote class="stu-note">
 	<strong>This documentation and set of artefacts are still undergoing development.</strong>
